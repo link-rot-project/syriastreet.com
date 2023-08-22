@@ -1,0 +1,16 @@
+name: "Check for broken links"
+on:
+  push:
+    branches:
+    - "main"
+jobs:
+  deploy:
+    runs-on: "ubuntu-latest"
+    steps:
+    - uses: "actions/checkout@v3"
+    - uses: "pnpm/action-setup@v2"
+      with:
+        version: 8
+        run_install: true
+    - name: "Run"
+      run: "./node_modules/.bin/hyperlink -r ."
