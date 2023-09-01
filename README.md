@@ -1,5 +1,9 @@
 icrc-syria-st-distrib
 =====================
+## Staging Server
+
+[https://syriastreet.testing.sutty.nl/](https://syriastreet.testing.sutty.nl/)
+
 
 Public repo for distribution. 
 
