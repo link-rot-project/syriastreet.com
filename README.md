@@ -1,3 +1,5 @@
+This will be published on https://syriastreet.brandontauszik.com/
+
 icrc-syria-st-distrib
 =====================
 ## Staging Server
