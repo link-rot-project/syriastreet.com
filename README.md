@@ -5,8 +5,12 @@ icrc-syria-st-distrib
 =====================
 
 ## Web3 Publication Links
-* [https://ipns/k51qzi5uqu5dmjviuz8n37cqsuse51f5xaeqyzb021q1hwdgx4igtnyask36gl/]( https://ipns/k51qzi5uqu5dmjviuz8n37cqsuse51f5xaeqyzb021q1hwdgx4igtnyask36gl)
-* [https://hyper/15d735cftxnohb5s8ryt53gj64eezgwji1wzqc83o1cg993nd4uo/]( https://ipns/k51qzi5uqu5dmjviuz8n37cqsuse51f5xaeqyzb021q1hwdgx4igtnyask36gl)
+
+* /ipns/k51qzi5uqu5dmjviuz8n37cqsuse51f5xaeqyzb021q1hwdgx4igtnyask36gl/
+* /hyper/15d735cftxnohb5s8ryt53gj64eezgwji1wzqc83o1cg993nd4uo/
+* <ipns://syriastreet.brandontauszik.com>
+* <hyper://syriastreet.brandontauszik.com>
+* <https://syriastreet.brandontauszik.com>
 
 ## Staging Server
 
